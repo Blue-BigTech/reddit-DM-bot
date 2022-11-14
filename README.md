@@ -1,4 +1,4 @@
-# Python Bulk Message Sender for Reddit
+# Python DM bot for Reddit
 
 ##### *For educational purposes only.*
 
