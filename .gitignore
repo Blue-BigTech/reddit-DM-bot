@@ -1,0 +1,7 @@
+.env
+*.pyc
+.idea
+message.txt
+results.xlsx
+subject.txt
+users.xlsx

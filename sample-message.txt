@@ -1,0 +1,7 @@
+**This is a sample Reddit message, you can use regular Reddit text markup to format your messages before you send them!**
+
+> Quote
+
+[Link](https://github.com/davidgrzyb)
+
+*Cool stuff!*
